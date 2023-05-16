@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Designer-portfolio/static/css/main.174f325a.css",
+    "main.js": "/Designer-portfolio/static/js/main.7ce416f1.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Designer-portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/Artboard – 2.jpg": "/Designer-portfolio/static/media/Artboard – 2.3380bfa691847f6b0309.jpg",
+    "static/media/Artboard – 1.jpg": "/Designer-portfolio/static/media/Artboard – 1.ae8ab5855e9de78070cb.jpg",
+    "static/media/Artboard – 4.jpg": "/Designer-portfolio/static/media/Artboard – 4.77136ee307bdcab29453.jpg",
+    "static/media/Artboard – 6.jpg": "/Designer-portfolio/static/media/Artboard – 6.7b3f5a88f6a4ce839cc9.jpg",
+    "static/media/Artboard – 3.jpg": "/Designer-portfolio/static/media/Artboard – 3.5bf864570ed2676d19e5.jpg",
+    "static/media/Artboard – 5.jpg": "/Designer-portfolio/static/media/Artboard – 5.15177994e71c81b7ea3d.jpg",
+    "static/media/avatar.png": "/Designer-portfolio/static/media/avatar.775d7ea149aaa83e7021.png",
+    "static/media/hero-devices.svg": "/Designer-portfolio/static/media/hero-devices.ca82e97c349a897082b6268dd7f8d733.svg",
+    "index.html": "/Designer-portfolio/index.html",
+    "static/media/Group 2.svg": "/Designer-portfolio/static/media/Group 2.59a6708d350cb336701234f3cac4b021.svg",
+    "static/media/Group 1.svg": "/Designer-portfolio/static/media/Group 1.4c23bb5df3f144bcc653bf50e1428d8f.svg",
+    "main.174f325a.css.map": "/Designer-portfolio/static/css/main.174f325a.css.map",
+    "main.7ce416f1.js.map": "/Designer-portfolio/static/js/main.7ce416f1.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Designer-portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.174f325a.css",
+    "static/js/main.7ce416f1.js"
+  ]
+}
